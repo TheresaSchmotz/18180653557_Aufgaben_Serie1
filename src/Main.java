@@ -4,6 +4,6 @@ public class Main {
 
         String nachname = "Schmotz";
         String vorname = "Theresa";
-        System.out.println("Hello "+vorname +" " +nachname +".");
+        System.out.println("Hello "+vorname +" " +nachname +".  ");
     }
 }
