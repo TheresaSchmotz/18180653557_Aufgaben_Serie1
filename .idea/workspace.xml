@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c7b6ab-0e05-4bc5-a596-4563e70621fa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projekte/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projekte/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package 2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Package 2/src/Kufstein.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekte.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1810653557_Aufgaben_Serie1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Package 2/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,26 +24,22 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Projekte.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projekte.iml">
+      <file leaf-file-name="1810653557_Aufgaben_Serie1.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1810653557_Aufgaben_Serie1.iml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Package 2/src/Main.java">
+      <file leaf-file-name="Kufstein.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Package 2/src/Kufstein.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -67,6 +63,7 @@
         <option value="$PROJECT_DIR$/2.Package/src/PackageNo2.java" />
         <option value="$PROJECT_DIR$/2.Package/src/Main.java" />
         <option value="$PROJECT_DIR$/Package 2/src/Main.java" />
+        <option value="$PROJECT_DIR$/Package 2/src/Kufstein.java" />
       </list>
     </option>
   </component>
@@ -100,16 +97,6 @@
               <item name="Projekte" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projekte" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Projekte" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekte" type="462c0819:PsiDirectoryNode" />
-              <item name="Package 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekte" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekte" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -120,6 +107,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -137,25 +125,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager">
+    <configuration name="Kufstein" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kufstein" />
       <module name="Package 2" />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Projekte" />
+      <module name="1810653557_Aufgaben_Serie1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Kufstein" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Kufstein" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -172,12 +160,12 @@
       <updated>1539245904423</updated>
       <workItem from="1539245912022" duration="4609000" />
       <workItem from="1541663931823" duration="456000" />
-      <workItem from="1541665899511" duration="2873000" />
+      <workItem from="1541665899511" duration="4048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7938000" />
+    <option name="totallyTimeSpent" value="9113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -193,12 +181,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3209352" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.32837406" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -222,15 +210,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Package 2/src/Main.java</url>
-          <line>2</line>
-          <properties class="Package2.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
@@ -242,23 +221,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projekte.iml">
+    <entry file="file://$PROJECT_DIR$/1810653557_Aufgaben_Serie1.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Package 2/Package 2.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -273,17 +242,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projekte.iml">
+    <entry file="file://$PROJECT_DIR$/1810653557_Aufgaben_Serie1.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Package 2/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package 2/Package 2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package 2/src/Kufstein.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
