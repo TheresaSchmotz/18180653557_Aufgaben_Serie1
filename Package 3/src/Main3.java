@@ -14,5 +14,7 @@ public class Main3 {
 
         //Aufgabe 6
         System.out.println("Java verwendet für Strings \"doppelte Anführungszeichen\" und einzelne Anführungszeichen\n" + "wie 'c' um einzelne Zeichen zu definieren.");
+        System.out.println("Durch \\ kann man auch den Backslash selbst beliebig oft ausgeben: \\\\\\\\");
+        System.out.println("Ich verwende den \\bBackspace, die Newline\\n und den \\tTabulator.");
     }
 }
