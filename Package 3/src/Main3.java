@@ -11,5 +11,8 @@ public class Main3 {
 
         //Aufgabe 5
         final String Baum;
+
+        //Aufgabe 6
+        System.out.println("Java verwendet für Strings \"doppelte Anführungszeichen\" und einzelne Anführungszeichen\n" + "wie 'c' um einzelne Zeichen zu definieren.");
     }
 }
