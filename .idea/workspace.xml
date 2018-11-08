@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c7b6ab-0e05-4bc5-a596-4563e70621fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Package 3/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Package 3/src/Main3.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6c7b6ab-0e05-4bc5-a596-4563e70621fa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -211,12 +209,12 @@
       <updated>1539245904423</updated>
       <workItem from="1539245912022" duration="4609000" />
       <workItem from="1541663931823" duration="456000" />
-      <workItem from="1541665899511" duration="6584000" />
+      <workItem from="1541665899511" duration="6737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11649000" />
+    <option name="totallyTimeSpent" value="11802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -234,10 +232,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3209352" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.32624868" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.32624868" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25520834" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
