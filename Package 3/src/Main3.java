@@ -4,8 +4,10 @@ public class Main3
     {
         String name = "Theresa Schmotz";
         int alter = 19;
-        String fhKufsteinTirol = "Fachhochschule Kufstein Tirol"; //Man hat einfach den Variablennamen(fachhochschuleKufsteinTirol -> fhKufsteinTirol) ausgestauscht
-
+        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol";
+        /**Man hat einfach den Variablennamen(fachhochschuleKufsteinTirol -> fhKufsteinTirol) ausgestauscht;
+        variable FH_KUFSTEIN_TIROL ist jetzt final und kann zur laufzeit nichtmehr verändert werden.
+        */
         System.out.println(name);
         System.out.println(19);
     }
